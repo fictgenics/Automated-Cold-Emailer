@@ -67,5 +67,4 @@ The app will open, and you'll see a clean interface. There's nothing to learn. I
 
 We believe in progress. And we’re putting a ding in the universe with this project.
 
-* [Your Name] - [Your Email]
-* Project Link: [https://github.com/YourGitHubUsername/YourRepoName](https://github.com/YourGitHubUsername/YourRepoName)
+* Fictgenics - fictgenics@gmail.com
