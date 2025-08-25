@@ -1,7 +1,5 @@
 # Cold Email Generator
 
-![App Secreenshot](https://github.com/fictgenics/Automated-Cold-Emailer/blob/main/App_screenshot.png)
-
 Every once in a while, a new tool comes along that simplifies something so complex, it changes the way you work.
 
 This is one of those tools.
@@ -9,6 +7,8 @@ This is one of those tools.
 It’s not just an email generator. It’s a vision for how you connect with the world. It takes the noise—the busywork, the endless forms, the generic templates—and strips it away, leaving you with what's essential: a powerful, personalized message.
 
 This app is a bicycle for your mind. A tool that gives you leverage.
+
+![App Secreenshot](https://github.com/fictgenics/Automated-Cold-Emailer/blob/main/App_screenshot.png)
 
 ---
 
