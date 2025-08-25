@@ -67,6 +67,6 @@ The app will open, and you'll see a clean interface. There's nothing to learn. I
 
 ## We're Just Getting Started
 
-We believe in progress. And we’re putting a ding in the universe with this project.
+We believe in progress. feel free to contribute.
 
-* Fictgenics - fictgenics@gmail.com
+fictgenics@gmail.com
