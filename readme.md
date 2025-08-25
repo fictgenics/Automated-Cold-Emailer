@@ -1,5 +1,7 @@
 # Cold Email Generator
 
+![App Secreenshot](https://github.com/fictgenics/Automated-Cold-Emailer/blob/main/App_screenshot.png)
+
 Every once in a while, a new tool comes along that simplifies something so complex, it changes the way you work.
 
 This is one of those tools.
